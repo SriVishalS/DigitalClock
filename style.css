@@ -5,7 +5,7 @@ body {
 	font-family: "Lato", sans-serif;
 }
 .clockBox{
-    background: linear-gradient(150deg, rgb(235, 87, 87), rgb(0, 0, 0));
+    background: linear-gradient(150deg, rgb(185, 53, 53), rgb(0, 0, 0));
     display: flex;
     justify-content: center;
     align-items: center;
