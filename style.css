@@ -1,0 +1,23 @@
+body {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: "Lato", sans-serif;
+}
+.clockBox{
+    background: linear-gradient(150deg, rgb(235, 87, 87), rgb(0, 0, 0));
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 100vw;
+}
+.clock {
+	height: 100px;
+	width: 210px;
+	color: white;
+    font-family: 'Kanit', sans-serif;
+	display: grid;
+	place-items: center;
+	font-size: 50px;
+}
