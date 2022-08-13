@@ -14,7 +14,6 @@ body {
 }
 .clock {
 	height: 100px;
-	width: 210px;
 	color: white;
     font-family: 'Kanit', sans-serif;
 	display: grid;
